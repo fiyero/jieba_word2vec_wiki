@@ -1,0 +1,2 @@
+# jieba_word2vec_wiki
+jieba_word2vec_wiki
