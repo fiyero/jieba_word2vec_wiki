@@ -1,4 +1,4 @@
-# Apply Jieba on build word2vec model in Chinese content :smile:
+# Apply Jieba and build word2vec model in Chinese content :smile:
 https://medium.com/@patrickhk/practice-ntlk-word2vec-pca-wordcloud-jieba-on-harry-potter-series-and-chinese-content-ca6f845b3293
 
 I will briefly demonstrate how to Jieba on build word2vec model in Chinese content<br/>
